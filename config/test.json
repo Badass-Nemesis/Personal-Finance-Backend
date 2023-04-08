@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "1234",
+    "db": "mongodb://0.0.0.0:27017/main_project_db_tests"
+}
