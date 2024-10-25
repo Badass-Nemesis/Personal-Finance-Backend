@@ -1,6 +1,7 @@
 # 💰 Personal Finance App
 
-Welcome to the Personal Finance App! This project helps you manage your finances efficiently. (⭕ Deprecated because Payth closed their Payments Bank after RBI's notice to stop the onboarding of new customers.)
+Welcome to the Personal Finance App! This project helps you manage your finances efficiently. 
+## (⭕ Deprecated because Paytm closed their Payments Bank after RBI's notice to stop the onboarding of new customers.)
 
 ## 🎥 Demo Video
 
