@@ -1,16 +1,19 @@
 # 💰 Personal Finance App
 
 Welcome to the Personal Finance App! This project helps you manage your finances efficiently. 
-## (⭕ Deprecated because Paytm closed their Payments Bank after RBI's notice to stop the onboarding of new customers.)
+
+![Backend Repo](https://github.com/Badass-Nemesis/Personal-Finance-Backend)
+
+![Frontend Repo](https://github.com/Badass-Nemesis/Personal-Finance-Project-Frontend)
+
+
+# (⭕ Deprecated because Paytm closed their Payments Bank after RBI's notice to stop the onboarding of new customers.)
+
 
 ## 🎥 Demo Video
 
 Check out the app in action:
 ![Demo Video](https://youtu.be/_CRdPuIH5dA)
-
-![Backend Repo](https://github.com/Badass-Nemesis/Personal-Finance-Backend)
-
-![Frontend Repo](https://github.com/Badass-Nemesis/Personal-Finance-Project-Frontend)
 
 ## 📚 Features
 
