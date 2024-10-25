@@ -8,6 +8,9 @@ Welcome to the Personal Finance App! This project helps you manage your finances
 Check out the app in action:
 ![Demo Video](https://youtu.be/_CRdPuIH5dA)
 
+![Backend Repo](https://github.com/Badass-Nemesis/Personal-Finance-Backend)
+![Frontend Repo](https://github.com/Badass-Nemesis/Personal-Finance-Project-Frontend)
+
 ## 📚 Features
 
 - Track income and expenses
@@ -33,12 +36,15 @@ Check out the app in action:
    ```sh
    npm start
 
-## 🛠 Tech Stack
+## 🛠 Tech Used
 - Node.js
 - Express.js
 - MongoDB
-- React.js
+- ReactJS
 - Chart.js
+- Google Apps Script
+- Railway.app (for backend deployment)
+- Netlify and GHpages (for frontend deployment)
   
 ## 📝 License
 Licensed under the MIT License.
