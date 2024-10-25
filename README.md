@@ -26,7 +26,7 @@ Check out the app in action:
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/Personal-Finance-App.git
+   git clone https://github.com/Badass-Nemesis/Personal-Finance-App.git
 
 2. Navigate to the project directory:
    ```sh
