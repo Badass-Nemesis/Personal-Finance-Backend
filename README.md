@@ -13,7 +13,7 @@ Welcome to the Personal Finance App! This project helps you manage your finances
 ## 🎥 Demo Video
 
 Check out the app in action:
-![Demo Video](https://youtu.be/_CRdPuIH5dA)
+![Demo Video](https://youtube.com/watch?v=_CRdPuIH5dA)
 
 ## 📚 Features
 
